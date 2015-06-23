@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="com1634" name="com.yahoo.ycsb.TestByteIterator" tests="3" failures="0" timestamp="23 Jun 2015 18:33:26 GMT" time="0.169" errors="0">
+  <testcase name="testRandomByteIterator" time="0.005" classname="com.yahoo.ycsb.TestByteIterator"/>
+  <testcase name="testMinAndMaxParameter" time="0.008" classname="com.yahoo.ycsb.generator.TestZipfianGenerator"/>
+  <testcase name="testJSONArrayMeasurementsExporter" time="0.15" classname="com.yahoo.ycsb.measurements.exporter.TestMeasurementsExporter"/>
+</testsuite>

@@ -1,0 +1,6 @@
+This is a modified version of software written in part by Yahoo.
+I've made significant changes to it, including the addition of QuickCached to it,
+a piece of software that is licensed under the GPL.
+
+I did so in a purely academic pursuit, and if this method of getting QuickCached to work with YCSB
+doesn't work for you, modify the source yourself so that it does.
