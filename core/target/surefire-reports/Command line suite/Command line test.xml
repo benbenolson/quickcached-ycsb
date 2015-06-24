@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="com1634" name="com.yahoo.ycsb.TestByteIterator" tests="3" failures="0" timestamp="23 Jun 2015 19:58:40 GMT" time="0.169" errors="0">
-  <testcase name="testRandomByteIterator" time="0.005" classname="com.yahoo.ycsb.TestByteIterator"/>
-  <testcase name="testMinAndMaxParameter" time="0.009" classname="com.yahoo.ycsb.generator.TestZipfianGenerator"/>
-  <testcase name="testJSONArrayMeasurementsExporter" time="0.151" classname="com.yahoo.ycsb.measurements.exporter.TestMeasurementsExporter"/>
+<testsuite hostname="brazil" name="com.yahoo.ycsb.TestByteIterator" tests="3" failures="0" timestamp="24 Jun 2015 14:25:47 GMT" time="0.244" errors="0">
+  <testcase name="testRandomByteIterator" time="0.007" classname="com.yahoo.ycsb.TestByteIterator"/>
+  <testcase name="testMinAndMaxParameter" time="0.019" classname="com.yahoo.ycsb.generator.TestZipfianGenerator"/>
+  <testcase name="testJSONArrayMeasurementsExporter" time="0.21" classname="com.yahoo.ycsb.measurements.exporter.TestMeasurementsExporter"/>
 </testsuite>
