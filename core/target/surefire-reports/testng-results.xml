@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="244" started-at="2015-06-24T10:25:47Z" finished-at="2015-06-24T10:25:47Z">
+  <suite name="Command line suite" duration-ms="245" started-at="2015-06-24T10:41:09Z" finished-at="2015-06-24T10:41:10Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="244" started-at="2015-06-24T10:25:47Z" finished-at="2015-06-24T10:25:47Z">
+    <test name="Command line test" duration-ms="245" started-at="2015-06-24T10:41:09Z" finished-at="2015-06-24T10:41:10Z">
       <class name="com.yahoo.ycsb.measurements.exporter.TestMeasurementsExporter">
-        <test-method status="PASS" signature="testJSONArrayMeasurementsExporter()" name="testJSONArrayMeasurementsExporter" duration-ms="210" started-at="2015-06-24T10:25:47Z" finished-at="2015-06-24T10:25:47Z">
+        <test-method status="PASS" signature="testJSONArrayMeasurementsExporter()" name="testJSONArrayMeasurementsExporter" duration-ms="211" started-at="2015-06-24T10:41:09Z" finished-at="2015-06-24T10:41:10Z">
         </test-method>
       </class>
       <class name="com.yahoo.ycsb.TestByteIterator">
-        <test-method status="PASS" signature="testRandomByteIterator()" name="testRandomByteIterator" duration-ms="7" started-at="2015-06-24T10:25:47Z" finished-at="2015-06-24T10:25:47Z">
+        <test-method status="PASS" signature="testRandomByteIterator()" name="testRandomByteIterator" duration-ms="7" started-at="2015-06-24T10:41:09Z" finished-at="2015-06-24T10:41:09Z">
         </test-method>
       </class>
       <class name="com.yahoo.ycsb.generator.TestZipfianGenerator">
-        <test-method status="PASS" signature="testMinAndMaxParameter()" name="testMinAndMaxParameter" duration-ms="19" started-at="2015-06-24T10:25:47Z" finished-at="2015-06-24T10:25:47Z">
+        <test-method status="PASS" signature="testMinAndMaxParameter()" name="testMinAndMaxParameter" duration-ms="19" started-at="2015-06-24T10:41:09Z" finished-at="2015-06-24T10:41:09Z">
         </test-method>
       </class>
     </test>
